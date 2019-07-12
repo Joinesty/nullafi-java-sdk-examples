@@ -35,7 +35,7 @@ Importing the Examples at IDE (ItelliJ IDEA CE)
 ---
 
 #### Importing
-1. Clone the repository at your local computer `git clone https://github.com/Joinesty/nullafi-csharp-sdk-examples.git`
+1. Clone the repository: `git clone https://github.com/Joinesty/nullafi-csharp-sdk-examples.git`
 2. Open `ItelliJ IDEA CE` and click on `File > New > Project from Existing Sources...`
 3. Select the folder `nullafi-csharp-sdk-examples` and click on `Open`
 4. Select the option `Import project from external model`, choose `Maven` and click on `Next`
@@ -51,7 +51,7 @@ Importing the Examples at IDE (Eclipse or Similar)
 ---
 
 #### Importing
-1. Clone the repository at your local computer `git clone https://github.com/Joinesty/nullafi-csharp-sdk-examples.git`
+1. Clone the repository: `git clone https://github.com/Joinesty/nullafi-csharp-sdk-examples.git`
 2. Open `Eclipse IDE` and click on `File > Import...`
 3. Select the option `Maven > Existing Maven Project` and click on `Next`
 4. Click on `Browse` and select the folder `nullafi-csharp-sdk-examples`
@@ -72,7 +72,7 @@ Getting Started
 - To get started with the Examples, get a API Key from the Configuration page
 of your app in the [Settings Page - API Key][settings-api-key]. You can use this token to make calls for your own Nullafi account.
 
-- All vaults and tokens examples are in `src\com\joinesty\examples` folder.
+- All vaults and tokens examples are in `src\main\java\com\joinesty` folder.
 
 - View `com.joinesty.Main` class to view all examples working.
 
