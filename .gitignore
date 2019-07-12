@@ -1,3 +1,8 @@
 .idea/
 out/
 target/
+.classpath
+.project
+.settings/
+.DS_Store
+>>>>>>> Stashed changes
