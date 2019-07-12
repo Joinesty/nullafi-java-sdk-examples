@@ -20,10 +20,8 @@ Pre Requisites
 
 How to install the SDK at your project
 ---
-- Import the Maven Plugin Dependency from [Central Repository](https://search.maven.org/artifact/com.joinesty/nullafi-java-sdk). Examples:
+- Import the Maven Plugin Dependency from [Central Repository](https://search.maven.org/artifact/com.joinesty/nullafi-java-sdk). Example:
 ```xml
-Apache Maven
-
 <dependencies>
   <dependency>
     <groupId>com.joinesty</groupId>
@@ -32,24 +30,6 @@ Apache Maven
   </dependency>
 </dependencies>
 ``` 
-
-```
-Gradle Groovy DSL
-
-implementation 'com.joinesty:nullafi-java-sdk:1.0.1'
-``` 
-
-```
-Gradle Kotlin DSL
-
-compile("com.joinesty:nullafi-java-sdk:1.0.1")
-```
-
-```
-Scala SBT
-
-libraryDependencies += "com.joinesty" % "nullafi-java-sdk" % "1.0.1"
-```
 
 Importing the Examples at IDE (ItelliJ IDEA CE)
 ---
