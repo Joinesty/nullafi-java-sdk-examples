@@ -72,7 +72,7 @@ Getting Started
 - To get started with the Examples, get a API Key from the Configuration page
 of your app in the [Settings Page - API Key][settings-api-key]. You can use this token to make calls for your own Nullafi account.
 
-- All vaults and tokens examples are in `src\com\joinesty\examples` folder.
+- All vaults and tokens examples are in `src\main\java\com\joinesty` folder.
 
 - View `com.joinesty.Main` class to view all examples working.
 
