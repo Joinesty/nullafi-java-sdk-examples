@@ -4,7 +4,7 @@ Nullafi Java SDK Examples
 A Java Application with examples to use the Nullafi Java SDK.
 
 - [Pre Requisites](#pre-requisites)
-- [How to install the SDK at your project](#how-to-install-the-sdk-at-your-project)  
+- [How to use the SDK at your project](#how-to-use-the-sdk-at-your-project)  
 - [Importing the Examples at IDE (ItelliJ IDEA CE)](#importing-the-examples-at-ide-itellij-idea-ce)
 - [Importing the Examples at IDE (Eclipse or Similar)](#importing-the-examples-at-ide-eclipse-or-similar)
 - [Running without IDE](#running-without-ide)
@@ -18,7 +18,7 @@ Pre Requisites
 - Java SE >= 8 
 - Maven >= 3.6.0
 
-How to install the SDK at your project
+How to use the SDK at your project
 ---
 - Import the Maven Plugin Dependency from [Central Repository](https://search.maven.org/artifact/com.joinesty/nullafi-java-sdk). Example:
 ```xml
