@@ -16,6 +16,7 @@ A Java Application with examples to use the Nullafi Java SDK.
 Pre Requisites
 ---
 - Java SE Development Kit >= 8 
+- Maven >= 3.6.0
 
 How to install the SDK at your project
 ---
