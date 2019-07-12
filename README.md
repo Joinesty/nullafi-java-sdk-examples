@@ -26,7 +26,7 @@ How to install the SDK at your project
   <dependency>
     <groupId>com.joinesty</groupId>
     <artifactId>nullafi-java-sdk</artifactId>
-    <version>...</version>
+    <version>1.0.3</version>
   </dependency>
 </dependencies>
 ``` 
