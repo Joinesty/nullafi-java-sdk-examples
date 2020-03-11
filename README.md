@@ -71,7 +71,7 @@ Getting Started
 ---
 
 - To get started with the Examples, get a API Key from the Configuration page
-of your app in the [Settings Page - API Key][settings-api-key]. You can use this token to make calls for your own Nullafi account.
+of your app in the Settings Page -> API Key. You can use this token to make calls for your own Nullafi account.
 
 - All vaults and tokens examples are in `src\main\java\com\joinesty` folder.
 
@@ -94,7 +94,6 @@ public class Main {
 }
 ```
 
-[settings-api-key]: https://dashboard.nullafi.com/admin/settings/api
 
 Copyright and License
 ---------------------
